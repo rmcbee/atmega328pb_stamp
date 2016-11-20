@@ -1,0 +1,4 @@
+*atmega328pb: http://www.digikey.com/product-search/en/integrated-circuits-ics/embedded-microcontrollers/2556109?FV=fff40027%2Cfff800cd&mnonly=0&newproducts=0&ColumnSort=1000009&page=1&stock=0&pbfree=0&rohs=0&k=atmega328&quantity=1&ptm=0&fid=0&pageSize=25
+
+
+*crystal: http://www.digikey.com/product-detail/en/txc-corporation/7A-16.000MAAJ-T/887-1086-1-ND/2118963
